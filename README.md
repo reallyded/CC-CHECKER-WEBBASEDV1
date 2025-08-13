@@ -48,28 +48,14 @@ _Here's how to install the checker._
 * Download the Files from Here
 * Upload it to your Server and Extract it
 
-WEBHOOK URL
-   ```sh
-   https://api.telegram.org/bot{my_bot_token}/setWebhook?url={url_to_send_updates_to}
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Commands
-   ```sh
-   /info -> for check information 
-   /bin -> for check BIN Card 
-   /stripe -> for check card gate Stripe 
-   /braintree for check card gate Braintree 
-   /vbv -> for check card gate VBV Check 
-   /sk -> for check SK key 
-   /help -> for help information
-   ```
-
 **Format:** `card|month|year|cvv` → `4532123456789012|12|2025|123`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+API URL
+   ```sh
+   https://api.darkxcode.site/checker/cc-checkerV4.5/bot_tele/?cc=[CC LISTS]&gate=[GATE]&apikey=[APIKEY]
+   ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- OUTPUT -->
 ## Output
