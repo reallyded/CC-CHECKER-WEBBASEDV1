@@ -81,14 +81,14 @@ This is the result if the code is successfully deployed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[contributors-url]: https://github.com/zlaxtertdev/TelegramBotV1/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[forks-url]: https://github.com/zlaxtertdev/TelegramBotV1/network/members
-[stars-shield]: https://img.shields.io/github/stars/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[stars-url]: https://github.com/zlaxtertdev/TelegramBotV1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[issues-url]: https://github.com/zlaxtertdev/TelegramBotV1/issues
+[contributors-shield]: https://img.shields.io/github/contributors/zlaxtertdev/CC-CHECKER-WEBBASEDV1.svg?style=for-the-badge
+[contributors-url]: https://github.com/zlaxtertdev/CC-CHECKER-WEBBASEDV1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zlaxtertdev/CC-CHECKER-WEBBASEDV1.svg?style=for-the-badge
+[forks-url]: https://github.com/zlaxtertdev/CC-CHECKER-WEBBASEDV1/network/members
+[stars-shield]: https://img.shields.io/github/stars/zlaxtertdev/CC-CHECKER-WEBBASEDV1.svg?style=for-the-badge
+[stars-url]: https://github.com/zlaxtertdev/CC-CHECKER-WEBBASEDV1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/zlaxtertdev/CC-CHECKER-WEBBASEDV1.svg?style=for-the-badge
+[issues-url]: https://github.com/zlaxtertdev/CC-CHECKER-WEBBASEDV1/issues
 [telegram-shield]: https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
 [telegram-url]: https://t.me/zlaxtert
 [product-screenshot]: img/ress.png
